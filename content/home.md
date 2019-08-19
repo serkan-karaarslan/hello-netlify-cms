@@ -1,5 +1,5 @@
 ---
-title: Awesome kitties
+title: Awesome kitties - updated
 date: 2019-03-17T19:31:20.591Z
 cats:
   - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
@@ -12,3 +12,5 @@ cats:
 Welcome to my awesome page about cats of the internet. 
 
 This page is built with NextJS, and content is managed in Netlify CMS
+
+![fitforme home page](/static/img/screen-shot-2019-08-19-at-15.23.16.png "home page of fitforme")
