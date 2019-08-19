@@ -12,3 +12,5 @@ cats:
 Welcome to my awesome page about cats of the internet. 
 
 This page is built with NextJS, and content is managed in Netlify CMS
+
+![fitforme home page](/static/img/screen-shot-2019-08-19-at-15.23.16.png "home page of fitforme")
